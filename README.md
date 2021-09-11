@@ -4,6 +4,10 @@
 - I started learning Python on September 3rd, 2021, and HTML during about late 2018.
 - I can't wait to start wasting my life on this, when I get my Raspberry Pi 400 in the next few days!
 
+Here is a crappy program I made. Cool, right? Right?
+
+![A CRAPPY PROGRAM OF MINE](https://github.com/asadava/asadava/blob/main/boredom.jpg)
+
 <!---
 If you see this, hide the body. Please.
 --->
