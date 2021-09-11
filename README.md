@@ -18,7 +18,7 @@ A: What I used to start learning HTMl was Sololearn. Nowadays, they messed it up
 
 Here is a crappy program I made. Cool, right? Right?
 
-![A CRAPPY PROGRAM OF MINE](https://github.com/asadava/asadava/blob/main/imgs/boredom.jpg)
+![A CRAPPY PROGRAM OF MINE](https://github.com/asadava/asadava/blob/main/imgs/boredom2.jpg)
 
 <!---
 If you see this, hide the body. Please.
