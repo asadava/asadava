@@ -5,13 +5,13 @@
 - I can't wait to start wasting my life on this, when I get my Raspberry Pi 400 in the next few days!
 
 ### --- QUESTIONS AND ANSWERS ---
-Q: Why are there a bunch of comments jam packed into your code?
+Q: Why are there a bunch of comments jam packed into your code?<br/>
 A: This code was not made for GitHub, it was made to show my friends and family who don't know python how these programs tick.
 
-Q: Why are you called asadava?
+Q: Why are you called asadava?<br/>
 A: I found my dad's drug stash, and the rest is history.
 
-Q: How do I learn programming?
+Q: How do I learn programming?<br/>
 A: What I used to start learning HTMl was Sololearn. Nowadays, they messed it up with it being pay-to-win, so be wary.
 ### --- QUESTIONS AND ANSWERS ---
 
