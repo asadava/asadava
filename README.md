@@ -12,7 +12,7 @@ Q: Why are you called asadava?<br/>
 A: I found my dad's drug stash, and the rest is history.
 
 Q: How do I learn programming?<br/>
-A: What I used to start learning HTMl was Sololearn. Nowadays, they messed it up with it being pay-to-win, so be wary.
+A: What I used to start learning HTML was Sololearn. Nowadays, they messed it up with it being pay-to-win, so be wary.
 ### --- QUESTIONS AND ANSWERS ---
 
 
