@@ -7,7 +7,7 @@
 Q: why are there a bunch of comments jam packed into your code?<br/>
 A: this code was not made for github, it was made to show my friends and family who don't know python how these programs tick.
 
-Q: why are you called bushfactoryz?<br/>
+Q: why are you called bushfactory?<br/>
 A: I found my dad's drug stash, and the rest is history.
 
 Q: how do i learn programming?<br/>
