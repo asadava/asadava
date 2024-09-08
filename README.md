@@ -11,7 +11,7 @@ Q: why are you called bushfactory?<br/>
 A: i found my dad's drug stash, and the rest is history...
 
 Q: how do i learn programming?<br/>
-A: what i used to start learning HTML was sololearn. but, any tutorial website/video/whatever will probably work.
+A: what i used to start learning HTML was sololearn, and i taught myself python. but, any tutorial website/video/whatever will probably work.
 
 ### --- OTHER STUFF I DUNNO I DON'T GET PAID ENOUGH FOR THIS ---
 here is a crappy program i made. cool, right? right?
